@@ -175,3 +175,10 @@ In Home view, all the views button will be available. User will land on specific
 ![](6.png)
 
 
+you can find the full report file here : [Here live report link](https://app.powerbi.com/view?r=eyJrIjoiZjYzZTJlNDMtOWVjZS00ZmUxLWFjZDAtZDlmNTRkOTg0Yjc5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+you can also find my LinkedIn post on this:[LinkedIn Post Link](https://www.linkedin.com/posts/farizalik_greetings-linkedin-community-im-thrilled-activity-7181220919044976641-IqvV?utm_source=share&utm_medium=member_desktop)
+## Project Outcome
+By using this report, decisions can be taken based on the data. Further it will help in answering n number of why questions based on the situations.
+
+
