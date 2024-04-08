@@ -157,21 +157,21 @@ In Home view, all the views button will be available. User will land on specific
 - Executive View
 
 ## Home
-![](Project_Screenshot2_updated.png)
+![](1.png)
 
 ## Finance view
-![](Project_Screenshot2_updated.png)
+![](2.png)
 
 ## Sales view
-![](Project_Screenshot2_updated.png)
+![](3.png)
 
 ## Marketing view
-![](Project_Screenshot2_updated.png)
+![](4.png)
 
 ## Supply chain view
-![](Project_Screenshot2_updated.png
+![](5.png)
 
 ## Executive View
-![](Project_Screenshot2_updated.png)
+![](6.png)
 
 
