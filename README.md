@@ -143,3 +143,35 @@ Fact table : It will have the data about the transactions
 
 ![](Project_Screenshot2_updated.png)
 
+## Dashboard designing
+Based on the mock ups received as requirement, the team will start designing the visuals and create measure as and when required
+
+## Home view
+In Home view, all the views button will be available. User will land on specific view page by clicking the button
+
+- Home
+- Finance View
+- Sales View
+- Marketing View
+- Supply chain View
+- Executive View
+
+## Home
+![](Project_Screenshot2_updated.png)
+
+## Finance view
+![](Project_Screenshot2_updated.png)
+
+## Sales view
+![](Project_Screenshot2_updated.png)
+
+## Marketing view
+![](Project_Screenshot2_updated.png)
+
+## Supply chain view
+![](Project_Screenshot2_updated.png
+
+## Executive View
+![](Project_Screenshot2_updated.png)
+
+
