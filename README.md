@@ -141,5 +141,5 @@ Fact table : It will have the data about the transactions
 - Following Good practices of data modeling is must. Refer this page to get to know the good practices Blog
 - In this project, we have followed Snowfall data modeling method.
 
-
+![](Project_Screenshot2_updated.png)
 
